@@ -1,4 +1,4 @@
-# GUI Bookstore 
+# GUI Vacation rental
 Written in C# using Visual Studio and used Microsoft Access for database. 
 Functionalities include login, taking, searching, adding and updating.
 
