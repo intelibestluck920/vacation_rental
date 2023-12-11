@@ -13,4 +13,7 @@ Password: admin
 ## Running the project
 - Import the project in Visual Studio Click Build and Run
 
+I am Jella.
+You can contact me here, I think.
+
 
