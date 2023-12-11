@@ -18,4 +18,6 @@ You can contact me here, I think.
 
 author: intelibestluck@gmail.com
 
+you can write down your contact info, Jella.
+
 
