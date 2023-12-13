@@ -13,11 +13,11 @@ Password: admin
 ## Running the project
 - Import the project in Visual Studio Click Build and Run
 
-I am Maria.
+I am Jella.
 You can contact me here, I think.
 
 author: intelibestluck@gmail.com
 
-you can write down your contact info, Maria.
+you can write down your contact info, Jella.
 
 
